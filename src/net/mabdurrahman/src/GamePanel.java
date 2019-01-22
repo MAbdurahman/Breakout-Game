@@ -241,9 +241,9 @@ public class GamePanel extends JPanel {
         game.setBackground(COLOR);
         frame.add(game);
         frame.setResizable(false);
-      //  Image icon = Toolkit.getDefaultToolkit().getImage(GamePanel.class.
-              //  getResource("../img/breakoutImage.jpg"));
-        //frame.setIconImage(icon);
+        Image icon = Toolkit.getDefaultToolkit().getImage(GamePanel.class.
+              getResource("../img/breakout-image.png"));
+        frame.setIconImage(icon);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
 
@@ -331,7 +331,7 @@ public class GamePanel extends JPanel {
             frame.add(game);
             frame.setResizable(false);
             Image icon = Toolkit.getDefaultToolkit().getImage(GamePanel.class.
-                  getResource("../img/breakoutImage.jpg"));
+                  getResource("../img/breakout-image.png"));
             frame.setIconImage(icon);
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
             frame.setVisible(true);
