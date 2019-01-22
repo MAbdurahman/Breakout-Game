@@ -1,0 +1,12 @@
+# Covers JetBrains IDEs: IntelliJ, PhpStorm, and WebStorm
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+# See: https://help.github.com/ignore-files/for more about ignoring files
+
+#Dependencies for npm initialization
+/node_modules
+
+#Miscellaneous
+npm-debug.log*
+
+# ignore generated idea files
+*.idea

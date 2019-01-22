@@ -1,0 +1,3 @@
+#Breakout-Game
+
+Breakout-Game is a variant of the game developed by Atari, Inc. The rules are simple: a layer of bricks lines the top third of the screen. A ball travels across the screen, bouncing off the top and side walls of the screen. When the ball hits a brick, the ball bounces away, the brick is destroyed, and five points is added to the score. When the ball touches the bottom of the screen, the game is over. The game is also over, when all the bricks have been destroyed. The player moves the paddle to keep the ball in play and the game from ending
