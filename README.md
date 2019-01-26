@@ -1,4 +1,4 @@
-#Breakout-Game
+# Breakout-Game
 
 Breakout-Game is a variant of the game developed by Atari, Inc. The rules are simple:  a layer of bricks line the top third of the screen.  A ball travels across the screen, bouncing off the top and side walls of the screen. The player must use the left and right arrows of the keyboard to move the paddle, and keep the ball from touching the bottom of the screen.  If the ball touches the bottom of the screen, the game is over.  The game is also over, when all the bricks have been destroyed.  When the ball hits a brick, the ball bounces away, the brick is destroyed.  Points are calculated as follows:  bricks on first row are 2 points each; bricks on second row are 3 points each; bricks on third row are 4 points each; bricks on fourth row are 5 points each; and bricks on fifth row are 6 points each. If a player destroys all the bricks, he/she wins the game with a total of 360 points. 
 
